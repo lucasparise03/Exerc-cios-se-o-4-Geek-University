@@ -1,3 +1,6 @@
+
+# Exercícios seção 4:
+
 # 1:
 """valor = 1
 print(valor) 
